@@ -1,0 +1,19 @@
+title: Anudeep Chirumalla
+email: anudeep@chirumalla.com
+author: Anudeep Chirumalla
+baseurl: ""
+url: https://bhiruva.com
+timezone: America/Los_Angeles
+encoding: utf-8
+strict_front_matter: true
+exclude:
+  - README.md
+include:
+  - _redirects
+permalink: /:title
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
