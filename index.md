@@ -6,8 +6,8 @@
 At Bhiruva, we are redefining the future of online publishing with a revolutionary approach. Today's web is heavy, slow, and overly reliant on JavaScript. We're here to change that.
 
 
-Superfast CMS
-Superfast CMS is our answer—a blazing-fast, modern HTML-over-the-Wire content management system engineered for speed, simplicity, and scalability. Designed specifically for companies, creators, and publishers, our CMS minimizes JavaScript dependencies without compromising on functionality or experience.
+### Superfast CMS
+**Superfast CMS** is our answer—a blazing-fast, modern HTML-over-the-Wire content management system engineered for speed, simplicity, and scalability. Designed specifically for companies, creators, and publishers, our CMS minimizes JavaScript dependencies without compromising on functionality or experience.
 
 
 With Superfast CMS, you can:
